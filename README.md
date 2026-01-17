@@ -1,13 +1,13 @@
-## 🚀 About Me
+## About Me
 
 I'm a software engineer specialized in **back-end development**. I'm passionate about building scalable, reliable, and efficient systems that power modern applications.
 
-### 💻 What I Do
+### What I Do
 
 - **Back-End Development**: Designing and implementing robust server-side applications, RESTful APIs, and microservices architectures
 - **Infrastructure as Code**: Automating infrastructure deployment and management using modern DevOps practices
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Frameworks:**
 ###
@@ -32,4 +32,4 @@ I'm a software engineer specialized in **back-end development**. I'm passionate 
 
 ###
 
-### 📫 Let's Connect
+### Let's Connect
