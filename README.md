@@ -1,5 +1,3 @@
-# Hi there, I'm a Software Engineer 👋
-
 ## 🚀 About Me
 
 I'm a software engineer specialized in **back-end development**. I'm passionate about building scalable, reliable, and efficient systems that power modern applications.
