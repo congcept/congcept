@@ -8,8 +8,6 @@ I'm a software engineer specialized in **back-end development**. I'm passionate 
 - **Infrastructure as Code**: Automating infrastructure deployment and management using modern DevOps practices
 
 ### Tech Stack
-
-**Languages & Frameworks:**
 ###
 
 <div align="left">
