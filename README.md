@@ -2,39 +2,36 @@
 
 ## 🚀 About Me
 
-I'm a software engineer specialized in **back-end development** and **cloud infrastructure**. I'm passionate about building scalable, reliable, and efficient systems that power modern applications.
+I'm a software engineer specialized in **back-end development**. I'm passionate about building scalable, reliable, and efficient systems that power modern applications.
 
 ### 💻 What I Do
 
 - **Back-End Development**: Designing and implementing robust server-side applications, RESTful APIs, and microservices architectures
-- **Cloud Engineering**: Building and maintaining cloud-native applications with focus on scalability, security, and cost optimization
 - **Infrastructure as Code**: Automating infrastructure deployment and management using modern DevOps practices
 
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-- Proficient in server-side languages for building high-performance applications
-- Experience with modern web frameworks and API development
+###
 
-**Cloud & Infrastructure:**
-- Cloud platforms (AWS, Azure, GCP)
-- Container orchestration (Docker, Kubernetes)
-- Infrastructure as Code (Terraform, CloudFormation)
-- CI/CD pipelines and automation
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
 
-**Databases & Storage:**
-- Relational databases (PostgreSQL, MySQL)
-- NoSQL databases (MongoDB, Redis)
-- Data modeling and optimization
-
-### 🎯 Focus Areas
-
-- Microservices architecture and distributed systems
-- Cloud-native application development
-- Performance optimization and scalability
-- DevOps practices and automation
-- System design and architecture
+###
 
 ### 📫 Let's Connect
-
-I'm always interested in discussing back-end architecture, cloud solutions, and innovative technology projects. Feel free to reach out!
